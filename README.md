@@ -6,4 +6,4 @@ Compiled using Open JDK 8 with lambda.
 http://jdk8.java.net/lambda/
 
 Groovy, javascript, scala examples added for comparison.
-
+Added Haskell example.
